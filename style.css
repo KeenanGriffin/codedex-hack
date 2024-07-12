@@ -1,8 +1,26 @@
 body {
-    background-color:bisque;
+    background-color:whitesmoke;
 }
 
 h1 {
     color:seagreen;
-    font-family:Verdana;
+    font-family:20px Montserrat, sans-serif;
+}
+
+.event-banner {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.event-calandar {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.event-body {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
