@@ -10,11 +10,12 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #97e19c;
+    background-color:#2e8b57;
+    /*background-color: #97e19c;*/
 }
 
 .navigation-bar {
-    background-color:seagreen;
+    background-color:#2e8b57;
     height: 70px;
     width: 100%;
     text-align:center;
